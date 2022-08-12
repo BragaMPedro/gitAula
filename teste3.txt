@@ -1,0 +1,4 @@
+Exemplo de fazeção de arquivo de texto
+Linuxes
+Linuxes2
+copiado de teste.txt com comando CP
